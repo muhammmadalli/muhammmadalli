@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Engr. Muhammad Ali</h1>
 <h3 align="center">A passionate Systems and Networking Engineer From Pakistan</h3>
 
-![](https://komarev.com/ghpvc/?username=muhammmadalli&style=for-the-badge&base=1325&abbreviated=true) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammmadalli)
+![](https://komarev.com/ghpvc/?username=muhammmadalli&style=for-the-badge&base=325&abbreviated=true) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammmadalli)
 
 
 - 🔭 I’m currently working on **XAMPP**
