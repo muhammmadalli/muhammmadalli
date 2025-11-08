@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=muhammmadalli&style=for-the-badge&base=1325&abbreviated=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammmadalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammmadalli)
 
 
 - 🔭 I’m currently working on **XAMPP**
