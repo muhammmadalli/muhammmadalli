@@ -22,6 +22,6 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taaha3244&show_icons=true&locale=en" alt="taaha3244" /></p>
+![unknown](https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
