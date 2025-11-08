@@ -12,6 +12,7 @@
 - 💬 Ask me about **LTE Core networks, Opensource Server Deployment, Android App Development, Computer Networking, or Telecommunication infra**
 - 📫 How to reach me: **www.linkedin.com/in/muhammmadalli**
 - ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
+- 📜 International Certifications: Certified Information Systems Auditor **CISA**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en&layout=donut" /> <img src="https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en&theme=transparent&include_all_commits=true" />
