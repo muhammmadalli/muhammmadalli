@@ -3,7 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=muhammmadalli&style=for-the-badge&base=1325&abbreviated=true)
 
-<p align="left"> <a href="https://twitter.com/dev_taaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev_taaa?logo=twitter&style=for-the-badge" alt="dev_taaa" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammmadalli)
+
 
 - 🔭 I’m currently working on **XAMPP**
 - 🌱 I’m currently learning **Mobile App Development - JAVA and Kotlin**
