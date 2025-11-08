@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Taaha Mushtaq</h1>
 <h3 align="center">A passionate Machine Learning Engineer From Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taaha3244&label=Profile%20views&color=0e75b6&style=flat" alt="taaha3244" /> </p>
+![](https://komarev.com/ghpvc/?username=muhammmadalli)
 
 <p align="left"> <a href="https://twitter.com/dev_taaa" target="blank"><img src="https://img.shields.io/twitter/follow/dev_taaa?logo=twitter&style=for-the-badge" alt="dev_taaa" /></a> </p>
 
