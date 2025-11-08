@@ -22,16 +22,22 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
 
-⚡ Tech & Tools
-🧠 Languages
+# ⚡ Tech & Tools
+
+## 🧠 Languages
 <p> <img src="https://skillicons.dev/icons?i=kotlin" height="45" /> <img src="https://skillicons.dev/icons?i=java" height="45" /> <img src="https://skillicons.dev/icons?i=bash" height="45" /> </p>
-⚙️ Dev Tools & SDKs
+
+## ⚙️ Dev Tools & SDKs
 <p> <img src="https://skillicons.dev/icons?i=androidstudio" height="45" /> <img src="https://skillicons.dev/icons?i=gradle" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> </p>
-🖥 Operating Systems
+
+## 🖥 Operating Systems
 <p> <img src="https://skillicons.dev/icons?i=ubuntu" height="45" /> <img src="https://skillicons.dev/icons?i=debian" height="45" /> <img src="https://skillicons.dev/icons?i=redhat" height="45" /> <img src="https://skillicons.dev/icons?i=windows" height="45" /> <img src="https://raw.githubusercontent.com/iiiypuk/russians/master/src/wsl/wsl.svg" height="45" /> </p>
-🌐 Networking / Telecom / Infrastructure
+
+## 🌐 Networking / Telecom / Infrastructure
 <p> <img src="https://skillicons.dev/icons?i=cisco" height="45" /> <img src="https://skillicons.dev/icons?i=redis" height="45" /> <img src="https://simpleicons.org/icons/huawei.svg" height="45" /> <img src="https://simpleicons.org/icons/activedirectory.svg" height="45" /> <img src="https://simpleicons.org/icons/dell.svg" height="45" /> </p>
-☁️ Server / Web / Services
+
+## ☁️ Server / Web / Services
 <p> <img src="https://skillicons.dev/icons?i=nextcloud" height="45" /> <img src="https://skillicons.dev/icons?i=php" height="45" /> <img src="https://skillicons.dev/icons?i=postgres" height="45" /> <img src="https://skillicons.dev/icons?i=apache" height="45" /> <img src="https://skillicons.dev/icons?i=linux" height="45" /> <img src="https://simpleicons.org/icons/keycloak.svg" height="45" /> </p>
-🛠 Interests
+
+## 🛠 Interests
 <p> <img src="https://simpleicons.org/icons/raspberrypi.svg" height="45" /> <img src="https://simpleicons.org/icons/linux.svg" height="45" /> <img src="https://simpleicons.org/icons/securityscorecard.svg" height="45" /> <img src="https://simpleicons.org/icons/databricks.svg" height="45" /> </p>
