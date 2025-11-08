@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on **XAMPP**
-- 🌱 I’m currently learning **Mobile App Development - JAVA and Kotlin**
+- 🌱 I’m currently learning **Mobile App Development - Java and Kotlin**
 - 👯 I’m looking to collaborate on **Cybersecurity**
 - 🤔 I’m looking for help with **CCNA**
 - 💬 Ask me about **LTE Core networks, Opensource Server Deployment, Android App Development, Computer Networking, or Telecommunication infra**
