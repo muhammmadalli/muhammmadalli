@@ -15,7 +15,7 @@
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en)
 
-![unknown](https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
 
