@@ -22,110 +22,16 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
 
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Skills — Icons</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-pY1X6x1q8m6g3Yw2c2k1NQF7mK3tZ8r2kq7KQ9YF6Lkqj2Gf1Km1b6s0h9b2G1w2Z3Y1X6x1q8m6g3Yw2c2k1NQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8;--glass:rgba(255,255,255,0.03)}
-    *{box-sizing:border-box}
-    body{font-family:Inter,Segoe UI,Arial; margin:0; background:linear-gradient(180deg,#071127 0%, #081426 100%); color:#e6eef6; -webkit-font-smoothing:antialiased; padding:28px}
-    .wrap{max-width:980px;margin:0 auto}
-    header{display:flex;align-items:center;gap:16px;margin-bottom:18px}
-    header h1{font-size:20px;margin:0}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
-    .card{background:var(--card);padding:14px;border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.03)}
-    .section-title{display:flex;align-items:center;gap:10px;margin-bottom:10px;color:var(--accent);font-weight:600}
-    .icons{display:flex;flex-wrap:wrap;gap:10px}
-    .item{display:flex;align-items:center;gap:10px;background:var(--glass);padding:8px 10px;border-radius:10px;border:1px solid rgba(255,255,255,0.02);min-width:120px}
-    .item i{font-size:20px;min-width:22px;text-align:center}
-    .muted{color:var(--muted);font-size:13px}
-    footer{margin-top:16px;color:var(--muted);font-size:13px}
-    @media (max-width:520px){body{padding:12px}}
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <header>
-      <div style="font-size:28px">⚡</div>
-      <div>
-        <h1>Concise Skills — Icon View</h1>
-        <div class="muted">Icons where available; simple, printable HTML file.</div>
-      </div>
-    </header>
-
-    <div class="grid">
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-code"></i> Programming / Scripting Languages</div>
-        <div class="icons">
-          <div class="item"><i class="fa-solid fa-brackets-curly"></i><div>Kotlin</div></div>
-          <div class="item"><i class="fa-brands fa-java"></i><div>Java</div></div>
-          <div class="item"><i class="fa-solid fa-terminal"></i><div>Bash / Shell</div></div>
-        </div>
-      </section>
-
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-tools"></i> Development Tools & SDKs</div>
-        <div class="icons">
-          <div class="item"><i class="fa-brands fa-android"></i><div>Android Studio</div></div>
-          <div class="item"><i class="fa-solid fa-gears"></i><div>Gradle</div></div>
-          <div class="item"><i class="fa-brands fa-git-alt"></i><div>Git</div></div>
-        </div>
-      </section>
-
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-desktop"></i> Operating Systems / Environments</div>
-        <div class="icons">
-          <div class="item"><i class="fa-brands fa-ubuntu"></i><div>Ubuntu</div></div>
-          <div class="item"><i class="fa-brands fa-windows"></i><div>WSL</div></div>
-          <div class="item"><i class="fa-brands fa-linux"></i><div>Debian</div></div>
-          <div class="item"><i class="fa-solid fa-box"></i><div>RHEL</div></div>
-          <div class="item"><i class="fa-brands fa-windows"></i><div>Windows</div></div>
-        </div>
-      </section>
-
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-satellite-dish"></i> Networking / Telecom / Infrastructure</div>
-        <div class="icons">
-          <div class="item"><i class="fa-solid fa-signal"></i><div>LTE Core Network</div></div>
-          <div class="item"><i class="fa-solid fa-network-wired"></i><div>Cisco IOS</div></div>
-          <div class="item"><i class="fa-solid fa-server"></i><div>Dell OME</div></div>
-          <div class="item"><i class="fa-solid fa-microchip"></i><div>Huawei iBMC</div></div>
-          <div class="item"><i class="fa-solid fa-user-shield"></i><div>Active Directory</div></div>
-          <div class="item"><i class="fa-solid fa-database"></i><div>Redis</div></div>
-        </div>
-      </section>
-
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-cloud"></i> Server / Web / Services</div>
-        <div class="icons">
-          <div class="item"><i class="fa-solid fa-cloud-arrow-up"></i><div>Nextcloud Backend</div></div>
-          <div class="item"><i class="fa-brands fa-php"></i><div>PHP</div></div>
-          <div class="item"><i class="fa-solid fa-database"></i><div>PostgreSQL</div></div>
-          <div class="item"><i class="fa-solid fa-key"></i><div>Keycloak</div></div>
-          <div class="item"><i class="fa-solid fa-file-code"></i><div>Collabora (CODE)</div></div>
-          <div class="item"><i class="fa-solid fa-server"></i><div>Apache Web Server</div></div>
-          <div class="item"><i class="fa-solid fa-database"></i><div>Redis</div></div>
-          <div class="item"><i class="fa-solid fa-server"></i><div>Linux Servers</div></div>
-          <div class="item"><i class="fa-solid fa-lock"></i><div>TLS</div></div>
-        </div>
-      </section>
-
-      <section class="card">
-        <div class="section-title"><i class="fa-solid fa-wrench"></i> Other Tools & Interests</div>
-        <div class="icons">
-          <div class="item"><i class="fa-solid fa-microchip"></i><div>Hardware</div></div>
-          <div class="item"><i class="fa-solid fa-cogs"></i><div>OS internals</div></div>
-          <div class="item"><i class="fa-solid fa-shield-halved"></i><div>Cybersecurity</div></div>
-          <div class="item"><i class="fa-solid fa-project-diagram"></i><div>Algorithms</div></div>
-        </div>
-      </section>
-    </div>
-
-    <footer>Want a printable PDF, a dark/light toggle, or a layout tweak? Tell me which and I’ll update it.</footer>
-  </div>
-</body>
-</html>
-
+⚡ Tech & Tools
+🧠 Languages
+<p> <img src="https://skillicons.dev/icons?i=kotlin" height="45" /> <img src="https://skillicons.dev/icons?i=java" height="45" /> <img src="https://skillicons.dev/icons?i=bash" height="45" /> </p>
+⚙️ Dev Tools & SDKs
+<p> <img src="https://skillicons.dev/icons?i=androidstudio" height="45" /> <img src="https://skillicons.dev/icons?i=gradle" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> </p>
+🖥 Operating Systems
+<p> <img src="https://skillicons.dev/icons?i=ubuntu" height="45" /> <img src="https://skillicons.dev/icons?i=debian" height="45" /> <img src="https://skillicons.dev/icons?i=redhat" height="45" /> <img src="https://skillicons.dev/icons?i=windows" height="45" /> <img src="https://raw.githubusercontent.com/iiiypuk/russians/master/src/wsl/wsl.svg" height="45" /> </p>
+🌐 Networking / Telecom / Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=cisco" height="45" /> <img src="https://skillicons.dev/icons?i=redis" height="45" /> <img src="https://simpleicons.org/icons/huawei.svg" height="45" /> <img src="https://simpleicons.org/icons/activedirectory.svg" height="45" /> <img src="https://simpleicons.org/icons/dell.svg" height="45" /> </p>
+☁️ Server / Web / Services
+<p> <img src="https://skillicons.dev/icons?i=nextcloud" height="45" /> <img src="https://skillicons.dev/icons?i=php" height="45" /> <img src="https://skillicons.dev/icons?i=postgres" height="45" /> <img src="https://skillicons.dev/icons?i=apache" height="45" /> <img src="https://skillicons.dev/icons?i=linux" height="45" /> <img src="https://simpleicons.org/icons/keycloak.svg" height="45" /> </p>
+🛠 Interests
+<p> <img src="https://simpleicons.org/icons/raspberrypi.svg" height="45" /> <img src="https://simpleicons.org/icons/linux.svg" height="45" /> <img src="https://simpleicons.org/icons/securityscorecard.svg" height="45" /> <img src="https://simpleicons.org/icons/databricks.svg" height="45" /> </p>
