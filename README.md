@@ -1,4 +1,4 @@
-<img width="795" height="149" alt="image" src="https://github.com/user-attachments/assets/02ae6daa-6f62-43e4-94c8-3df20e865e3e" />## Hi there 👋
+## Hi there 👋
 
 <!--
 **muhammmadalli/muhammmadalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
