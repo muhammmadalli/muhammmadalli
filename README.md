@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **muhammmadalli/muhammmadalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +9,7 @@
 -->
 
 
-<h1 align="center">Hi 👋, I'm Taaha Mushtaq</h1>
+<h1 align="center">Hi there 👋, I'm Taaha Mushtaq</h1>
 <h3 align="center">A passionate Machine Learning Engineer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taaha3244&label=Profile%20views&color=0e75b6&style=flat" alt="taaha3244" /> </p>
