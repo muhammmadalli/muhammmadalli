@@ -1,14 +1,3 @@
-<!--
-**muhammmadalli/muhammmadalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi there 👋, I'm Taaha Mushtaq</h1>
 <h3 align="center">A passionate Machine Learning Engineer From Pakistan</h3>
 
@@ -23,7 +12,8 @@
 - 👯 I’m looking to collaborate on *ML Projects*
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about *AI and Data Science*
-
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
 
 
 
