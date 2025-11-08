@@ -31,7 +31,7 @@
 <p> <img src="https://skillicons.dev/icons?i=androidstudio" height="45" /> <img src="https://skillicons.dev/icons?i=gradle" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> </p>
 
 ## 🖥 Operating Systems
-<p> <img src="https://skillicons.dev/icons?i=ubuntu" height="45" /> <img src="https://skillicons.dev/icons?i=debian" height="45" /> <img src="https://skillicons.dev/icons?i=redhat" height="45" /> <img src="https://skillicons.dev/icons?i=windows" height="45" /> <img src="https://raw.githubusercontent.com/iiiypuk/russians/master/src/wsl/wsl.svg" height="45" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=ubuntu" height="45" /> <img src="https://skillicons.dev/icons?i=debian" height="45" /> <img src="https://skillicons.dev/icons?i=redhat" height="45" /> <img src="https://skillicons.dev/icons?i=windows" height="45" /> <img src="https://www.developer-tech.com/wp-content/uploads/2021/10/windows-subsystem-for-linux-wsl-microsoft.png" height="45" /> </p>
 
 ## 🌐 Networking / Telecom / Infrastructure
 <p> <img src="https://skillicons.dev/icons?i=cisco" height="45" /> <img src="https://skillicons.dev/icons?i=redis" height="45" /> <img src="https://simpleicons.org/icons/huawei.svg" height="45" /> <img src="https://simpleicons.org/icons/activedirectory.svg" height="45" /> <img src="https://simpleicons.org/icons/dell.svg" height="45" /> </p>
