@@ -14,7 +14,9 @@
 - 📫 How to reach me: **www.linkedin.com/in/muhammmadalli**
 - ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en) ![Github Stats](https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en" height="180" /> <img src="https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en" height="180" />
+</p> 
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
 
