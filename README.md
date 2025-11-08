@@ -15,11 +15,11 @@
 - ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en" height="250" /> <img src="https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammmadalli&show_icons=true&locale=en" height="200" /> <img src="https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en" />
 </p> 
 
 <p align="center">
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammmadalli" />
 </p> 
 
 # ⚡ Tech & Tools
