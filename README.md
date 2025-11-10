@@ -25,7 +25,7 @@
 # ⚡ Tech & Tools
 
 ## 🧠 Languages
-<p> <img src="https://skillicons.dev/icons?i=kotlin" height="45" /> <img src="https://skillicons.dev/icons?i=java" height="45" /> <img src="https://skillicons.dev/icons?i=bash" height="45" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=kotlin" height="45" /> <img src="https://skillicons.dev/icons?i=java" height="45" /> <img src="https://skillicons.dev/icons?i=bash" height="45" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height="45" /> </p>
 
 ## ⚙️ Dev Tools
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" height="45" /> <img src="https://skillicons.dev/icons?i=gradle" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="45" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/800px-Visual_Studio_Icon_2022.svg.png" height="45" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Docker_Logo.svg/1920px-Docker_Logo.svg.png" height="45" />  </p>
