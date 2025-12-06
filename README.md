@@ -15,7 +15,7 @@
 - 📜 International Certifications: Certified Information Systems Auditor **CISA**
 
 <p align="center">
-  <img src="https://kasroudra-stats-card.onrender.com/lang?user=muhammmadalli&layout=compact&type=donut&theme=merko" /> <img src="https://github-readme-stats.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en&theme=transparent&include_all_commits=true" />
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=muhammmadalli&layout=compact&type=donut&theme=merko" /> <img src="https://github-readme-stats-fast.vercel.app/api?username=muhammmadalli&show_icons=true&locale=en&theme=transparent&include_all_commits=true" />
 </p> 
 
 <p align="center">
