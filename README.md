@@ -29,6 +29,9 @@
 ## 🧠 Languages
 <p> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Kotlin_logo_(2025).svg" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Gnu-bash-logo.svg" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Java_programming_language_logo.svg" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/python-logo.png" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/C_Sharp_Logo_2023.svg" height="45" /> </p>
 
+## 🛠️ Frameworks
+<p> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Microsoft_.NET_logo.svg" height="45" /> </p>
+
 ## ⚙️ Dev Tools
 <p> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Android_Studio_Logo_(2023).svg" height="45" /> <img src="https://skillicons.dev/icons?i=gradle" height="45" /> <img src="https://skillicons.dev/icons?i=git" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Visual_Studio_Code_1.35_icon.svg" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Visual_Studio_Icon_2026.svg" height="45" /> <img src="https://github.com/muhammmadalli/credentials-and-cv/blob/main/ProfileResources/Icons/Docker_Logo.svg" height="45" />  </p>
 
