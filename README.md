@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with **CCNA**
 - 💬 Ask me about **LTE Core networks, Opensource Server Deployment, Android App Development, Computer Networking, or Telecommunication infra**
 - 📫 How to reach me: **www.linkedin.com/in/muhammmadalli**
-- ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
+- ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and Software internals just for fun**
 - 📜 International Certifications:
   - Certified Information Systems Auditor [**CISA**](https://github.com/muhammmadalli/credentials-and-cv/blob/main/ISACA-CISA/CISA-certification-252937250.jpg)
   - Huawei Certified ICT Associate - 4G Long Term Evolution **HCIA-LTE**
