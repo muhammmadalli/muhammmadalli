@@ -13,7 +13,7 @@
 - 📫 How to reach me: **www.linkedin.com/in/muhammmadalli**
 - ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
 - 📜 International Certifications:
-  - Certified Information Systems Auditor **CISA**
+  - Certified Information Systems Auditor ![**CISA**](https://github.com/muhammmadalli/credentials-and-cv/blob/main/ISACA-CISA/CISA-certification-252937250.pdf)
   - Huawei Certified ICT Associate - 4G Long Term Evolution **HCIA-LTE**
 
 <p align="center">
