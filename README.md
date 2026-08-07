@@ -12,7 +12,9 @@
 - 💬 Ask me about **LTE Core networks, Opensource Server Deployment, Android App Development, Computer Networking, or Telecommunication infra**
 - 📫 How to reach me: **www.linkedin.com/in/muhammmadalli**
 - ⚡ Fun fact: **I manage telecom networks, master Cybersecurity, and dive into hardware and OS internals just for fun**
-- 📜 International Certifications: Certified Information Systems Auditor **CISA**
+- 📜 International Certifications:
+  - Certified Information Systems Auditor **CISA**
+  - Huawei Certified ICT Associate - 4G Long Term Evolution **HCIA-LTE**
 
 <p align="center">
   <img src="https://kasroudra-stats-card.onrender.com/lang?user=muhammmadalli&layout=compact&type=donut&theme=merko" /> 
